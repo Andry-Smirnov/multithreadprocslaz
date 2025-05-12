@@ -150,6 +150,8 @@ AutomaticConversion.log
 # Lazarus debug information
 *.dbg
 
+*.compiled
+
 # Lazarus project local settings
 *.lps
 
